@@ -6,7 +6,6 @@ I will graduate in August 2021, and I am in the process of organizing my previou
 
 If you find this repository useful for your research, please cite
 
-<a id="note1" href="#note1ref"><sup>1</sup></a>
 @inproceedings{zhang2019improved,
   title={Improved visual focus of attention estimation and prosodic features for analyzing group interactions},
   author={Zhang, Lingyu and Morgan, Mallory and Bhattacharya, Indrani and Foley, Michael and Braasch, Jonas and Riedl, Christoph and Foucault Welles, Brooke and Radke, Richard J},
