@@ -7,11 +7,17 @@ I will graduate in August 2021, and I am in the process of organizing my previou
 If you find this repository useful for your research, please cite
 
 ```ruby
-@inproceedings{zhang2019improved,
-  title={Improved visual focus of attention estimation and prosodic features for analyzing group interactions},
-  author={Zhang, Lingyu and Morgan, Mallory and Bhattacharya, Indrani and Foley, Michael and Braasch, Jonas and Riedl, Christoph and Foucault Welles, Brooke and Radke, Richard J},
-  booktitle={2019 International Conference on Multimodal Interaction},
-  pages={385--394},
-  year={2019}
+@inproceedings{10.1145/3382507.3418886,
+author = {Zhang, Lingyu and Radke, Richard J.},
+title = {Temporal Attention and Consistency Measuring for Video Question Answering},
+year = {2020},
+doi = {10.1145/3382507.3418886},
+booktitle = {Proceedings of the 2020 International Conference on Multimodal Interaction},
+pages = {510–518},
+numpages = {9},
+series = {ICMI '20}
 }
+
+
 ```
+Link to my personal website for brief explanation: https://lingyuzhang.blog/my-project/
